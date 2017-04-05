@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1490217336 source:/home/theorkh/Belgeler/hw/main.c
+	<stdio.h>
+	<math.h>
+
+1490217336 source:/home/theorkh/Belgeler/HwAndReadme/hw/main.c
+	<stdio.h>
+	<math.h>
+
