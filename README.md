@@ -1,4 +1,4 @@
-# BISECITON METHOD
+## BISECITON METHOD
 
 * C programlama dilinde yazilmis biseksiyon metodu.
 * Degerlerin 0'a yakinsaklik degerlerini hesapliyor.
